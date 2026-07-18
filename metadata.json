@@ -1,0 +1,8 @@
+{
+  "name": "VibeCode Studio Portfolio",
+  "description": "A high-performance portfolio featuring several local business showcases: Fixit Sam, Dan's Lawn Care, Aqua Glow, and more, built with high contrast design by VibeCode Studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
