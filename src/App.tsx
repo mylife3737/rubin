@@ -13,7 +13,7 @@ import UpdatedPolicies from './pages/UpdatedPolicies';
 export default function App() {
   return (
     <ThemeProvider>
-      <Router>
+      <Router basename={import.meta.env.BASE_URL}>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/project/:projectId" element={<ProjectDetail />} />
